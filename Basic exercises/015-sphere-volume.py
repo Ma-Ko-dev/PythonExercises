@@ -4,4 +4,3 @@ from math import pi
 r = 6
 result = 4 * pi * (r ** 3) / 3
 print(result)
-
